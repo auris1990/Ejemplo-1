@@ -1,0 +1,33 @@
+body{
+    
+    background-image: url("../img/fond.jpg")
+   
+}
+
+
+input{ 
+background: #FAFAC2;
+}
+
+#titulo1,#titulo2{ 
+   text-align: center;  
+   color: #D35400
+}
+#titulo2{
+    color:blue;
+}
+.contenedor-formulario{
+    background:rgb(30, 168, 76);
+    width:400px;
+    margin:0 auto;
+    
+    border-radius: 5px;
+    color: red;
+}
+.contenido-formulario{
+    padding: 10px;
+    
+}
+.titulo-formulario{
+    background: pink;
+}

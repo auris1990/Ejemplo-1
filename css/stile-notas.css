@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+* {
+    font-family: 'Oswald';
+}
+
+.bg-primary{
+    background-color: rgba(27, 45, 209, 0.959) !important;
+}
+.form-group{
+    color: hsl(240, 96%, 52%);
+}
+.buttom{
+    border-color: rgb(34, 34, 179);
+}
+
+.pepe{
+    padding-top: 20%;
+    
+}
