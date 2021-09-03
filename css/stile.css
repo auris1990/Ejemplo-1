@@ -1,14 +1,19 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+* {
+    font-family: 'Oswald';
+}
 .bg-primary{
-    background-color: rgba(139, 0, 0, 0.959) !important;
+    background-color: rgba(70, 13, 228, 0.959) !important;
 }
 
 .pie_pgn{
    
-    background-color: rgba(139, 0, 0, 0.959) !important;
+    background-color: rgba(70, 13, 228, 0.959) !important;
 }
 
 .breadcrumb{
-    background-color: rgba(139, 0, 0, 0.959) !important;
+    background-color: rgba(70, 13, 228, 0.959) !important;
      
 }
 .text-a{
@@ -16,4 +21,6 @@
     
 }
 
-
+.alto-pg{
+    height: 100px;
+}
